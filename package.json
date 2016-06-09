@@ -1,6 +1,6 @@
 {
   "name": "client-license",
-  "version": "0.0.0",
+  "version": "0.1.0-beta.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/JonDotsoy/client-license.git"
   },
-  "keywords": [],
+  "keywords": [ "license" ],
   "author": {
     // "Jonathan Delgado <hi@jon.soy> (http://jon.soy/)"
     "name": "Jonathan Delgado",
