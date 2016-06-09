@@ -1,0 +1,6 @@
+La Licencia de propietario
+Copyright (c) {{ Año }} {{ Organización }}
+
+LA OBRA {{ Nombre del Proyecto }} SE ENCUENTRA SUJETA A UNA LICENCIA EN PROPIEDAD DE {{ Cliente }}. Para lo cual tas cualquier uso usted acepta respetar los términos de esta licencia.
+
+Para lo cual SE RESTRINGE EL USO, DISTRIBUCIÓN, EDICIÓN, FUSIÓN, SUB-LICENCIAMIENTO, PUBLICACIÓN y VENTA. Sin el previo convencimiento de la entidad {{ Cliente }} domiciliada en {{ Domicilio del Cliente }}.

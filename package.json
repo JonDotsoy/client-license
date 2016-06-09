@@ -1,0 +1,21 @@
+{
+  "name": "client-license",
+  "version": "0.1.0-beta.1",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonDotsoy/client-license.git"
+  },
+  "keywords": [ "license" ],
+  "author": {
+    "name": "Jonathan Delgado",
+    "email": "hi@jon.soy",
+    "url": "http://jon.soy/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonDotsoy/client-license/issues"
+  },
+  "homepage": "https://github.com/JonDotsoy/client-license#readme"
+}
